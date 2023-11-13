@@ -8,6 +8,22 @@
       "expo-router"
     ],
     "name": "iJobs",
-    "slug": "iJobs"
+    "slug": "iJobs",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "b6faac21-d246-4272-a11d-8c48aa3be93d"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/b6faac21-d246-4272-a11d-8c48aa3be93d"
+    },
+    "android": {},
+    "ios": {}
   }
 }
